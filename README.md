@@ -6,7 +6,7 @@
 Learn to use Test Driven Development to create a program.
 
 ## Description
-This kata was created by Roy Osherove and is designed to help you learn TDD coding and refactoring.  
+This kata was created by Maya Mane and is designed to help you learn TDD coding and refactoring.  
 Try not to read ahead – do one task at a time. Work incrementally.
 
 ### Kata Steps
